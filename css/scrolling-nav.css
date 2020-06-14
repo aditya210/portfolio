@@ -10,7 +10,10 @@ header {
 section {
   padding: 150px 0;
 }
-
+body{
+	width:100%;
+	 overflow-x: hidden;
+}
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -33,7 +36,5 @@ section {
 .dev-icons {
   font-size: 3rem;
 }
-
-
 
 span { float: right; }
